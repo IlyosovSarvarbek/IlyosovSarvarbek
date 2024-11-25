@@ -18,8 +18,8 @@ I’m always looking to grow and improve! Currently, I’m diving deeper into:
 - Python for backend
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/username](https://github.com/IlyosovSarvarbek)
-- **Email**: [your-email@example.com](mailto:sarvarbekdev2010@gmail.com)
+- **Portfolio**: [www.sarvarbek.vercel.app]([https://github.com/IlyosovSarvarbek](https://sarvarbek.vercel.app/))
+- **Email**: [sarvarbekdev2010@gmail.com](mailto:sarvarbekdev2010@gmail.com)
 
 ---
 

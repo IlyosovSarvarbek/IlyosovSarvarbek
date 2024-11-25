@@ -9,16 +9,16 @@ I'm a **14-year-old web developer** with a passion for building modern and respo
 
 ## 🌟 Projects
 Here are some of my favorite projects:
-- **[Real time chat application]([https://github.com/username/project-name](https://chatappsarvarbek.netlify.app/))**: This is a real-time chat application that I created with ReactJS and Firebase (authentication, firestore database and cloud storage.
-- **[IELTS Speakig assistant app]([https://github.com/username/another-project](https://ielts-speaking-9.netlify.app/))**: This is an IELTS (International English Language Testing System) speaking assistant applicatin that allows users to see many topics for Part 1/2/3 with advanced questions and answers.
+- **[Real-Time Chat Application](https://chatappsarvarbek.netlify.app/)**: This is a real-time chat application that I created with ReactJS and Firebase, featuring authentication, Firestore database, and cloud storage.
+- **[IELTS Speaking Assistant App](https://ielts-speaking-9.netlify.app/)**: This is an IELTS (International English Language Testing System) speaking assistant application that allows users to see many topics for Part 1/2/3 with advanced questions and answers.
 
 ## ✨ What I’m Learning
 I’m always looking to grow and improve! Currently, I’m diving deeper into:
 - Flutter Development
-- Python for backend
+- Python for Backend
 
 ## 📫 Let's Connect!
-- **Portfolio**: [www.sarvarbek.vercel.app]([https://github.com/IlyosovSarvarbek](https://sarvarbek.vercel.app/))
+- **Portfolio**: [www.sarvarbek.vercel.app](https://sarvarbek.vercel.app/)
 - **Email**: [sarvarbekdev2010@gmail.com](mailto:sarvarbekdev2010@gmail.com)
 
 ---

@@ -15,7 +15,7 @@ Here are some of my favorite projects:
 ## ✨ What I’m Learning
 I’m always looking to grow and improve! Currently, I’m diving deeper into:
 - Flutter Development
-- Python for Backend
+- NodeJS
 
 ## 📫 Let's Connect!
 - **Portfolio**: [www.sarvarbek.vercel.app](https://sarvarbek.vercel.app/)

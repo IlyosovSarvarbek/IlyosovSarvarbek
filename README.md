@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a self-taught front-end and mobile app developer passionate about building modern, fast, and clean web & mobile apps. I focus on performance, design, and creating great user experiences.
+I'm a front-end and mobile app developer passionate about building modern, fast, and clean web & mobile apps. I focus on performance, design, and creating great user experiences.
 
 - 🧑‍💻 Specializing in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**
 - 📱 Also a **mobile app developer with React Native (Expo)**

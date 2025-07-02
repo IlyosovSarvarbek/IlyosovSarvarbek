@@ -1,26 +1,47 @@
-# 👋 Hi there, I'm Ilyosov Sarvarbek!
+<h1 align="center">Hey, I'm Sarvarbek 👋</h1>
 
-I'm a **14-year-old web developer** with a passion for building modern and responsive web applications. I love exploring new technologies and turning creative ideas into reality through code.
-
-## 🚀 Skills
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Firebase
-- **Tools**: Git, VS Code
-
-## 🌟 Projects
-Here are some of my favorite projects:
-- **[Real-Time Chat Application](https://chatappsarvarbek.netlify.app/)**: This is a real-time chat application that I created with ReactJS and Firebase, featuring authentication, Firestore database, and cloud storage.
-- **[IELTS Speaking Assistant App](https://ielts-speaking-9.netlify.app/)**: This is an IELTS (International English Language Testing System) speaking assistant application that allows users to see many topics for Part 1/2/3 with advanced questions and answers.
-
-## ✨ What I’m Learning
-I’m always looking to grow and improve! Currently, I’m diving deeper into:
-- Flutter Development
-- NodeJS
-
-## 📫 Let's Connect!
-- **Portfolio**: [www.sarvarbek.vercel.app](https://sarvarbek.vercel.app/)
-- **Email**: [sarvarbekdev2010@gmail.com](mailto:sarvarbekdev2010@gmail.com)
+<p align="center">
+  🚀 Front-End & Mobile App Developer | 💡 Creative Coder | 🧠 Always Building
+</p>
 
 ---
 
-_“Coding is not just a skill—it's a superpower!”_ 🚀
+### 👨‍💻 About Me
+
+I'm a self-taught front-end and mobile app developer passionate about building modern, fast, and clean web & mobile apps. I focus on performance, design, and creating great user experiences.
+
+- 🧑‍💻 Specializing in **React.js**, **Next.js**, **Tailwind CSS**, and **TypeScript**
+- 📱 Also a **mobile app developer with React Native (Expo)**
+- 💻 Linux lover, productivity nerd, and minimal tools enjoyer
+- ⚡ Always learning and improving through real-world projects
+
+---
+
+### 🛠 Tech Stack
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, GSAP
+- **Mobile:** React Native (Expo)
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Appwrite, VS Codium, Ubuntu
+
+---
+
+### 🌐 Projects
+
+Check out my portfolio 👉 [**sarvarbek.vercel.app**](https://sarvarbek.vercel.app)
+
+Some highlights:
+
+- ⚙️ Dynamic websites with clean design and fast performance
+- 📲 Mobile apps using React Native
+- 🌍 Real-world projects solving real problems
+
+---
+
+### 📫 Let's Connect
+
+- 💌 Email: [sarvarbekdev2010@gmail.com](mailto:sarvarbekdev2010@gmail.com)
+---
+
+> “The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs
+
+Let’s build something awesome together 🚀

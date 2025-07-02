@@ -25,21 +25,15 @@ I'm a self-taught front-end and mobile app developer passionate about building m
 
 ---
 
-### 🌐 Projects
 
 Check out my portfolio 👉 [**sarvarbek.vercel.app**](https://sarvarbek.vercel.app)
-
-Some highlights:
-
-- ⚙️ Dynamic websites with clean design and fast performance
-- 📲 Mobile apps using React Native
-- 🌍 Real-world projects solving real problems
 
 ---
 
 ### 📫 Let's Connect
 
 - 💌 Email: [sarvarbekdev2010@gmail.com](mailto:sarvarbekdev2010@gmail.com)
+- 👉 Portfolio: [**sarvarbek.vercel.app**](https://sarvarbek.vercel.app)
 ---
 
 > “The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs

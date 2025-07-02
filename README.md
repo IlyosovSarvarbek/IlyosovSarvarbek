@@ -21,7 +21,7 @@ I'm a front-end and mobile app developer passionate about building modern, fast,
 
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, GSAP
 - **Mobile:** React Native (Expo)
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Appwrite, VS Codium, Ubuntu
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Appwrite, VS Code, Linux (Arch)
 
 ---
 
